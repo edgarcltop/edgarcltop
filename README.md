@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edgarcltop&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="200"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=edgarcltop&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="200"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarcltop&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
