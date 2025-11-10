@@ -55,14 +55,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/YOURUSERNAME/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://your-portfolio.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/YOURHANDLE)
-
----
-
 ### ⚙️ Fun Extras
 
 <details>
